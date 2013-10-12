@@ -7,3 +7,7 @@
 
 * 1 major enhancement:
   * Complete rework of core GTIN functionality to have a much cleaner checksum functionality
+
+===  0.1.2 2012-08-22
+* 1 major enhacement:
+  * Method to return the checksum

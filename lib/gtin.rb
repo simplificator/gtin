@@ -3,7 +3,3 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 require "gtin/version"
 require "gtin/gtin"
-
-module GTIN
-  VERSION = '0.1.2'
-end
